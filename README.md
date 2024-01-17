@@ -2,43 +2,43 @@
   A faculty appraisal system is a tool that can be used to improve the quality of education at a  higher education institution. By identifying areas where faculty members are excelling and  areas where they can improve, a faculty appraisal system can help to ensure that faculty  members are providing the best possible education to their students.
    <br>
 # Home page
-![1](https://github.com/Rudy9025/Faculty-Appraisal-System/assets/95328967/e1c12e25-bd33-4167-aa12-f08834315887)
+![home 3](https://github.com/Rudy9025/Faculty-Appraisal-System/assets/95328967/f61c79a6-3589-4ab8-aad5-52822593c164)
  <hr style="background-color: white; height: 2px;border: none;">
  
-![2](https://github.com/Rudy9025/Faculty-Appraisal-System/assets/95328967/8e1c9017-1a69-4625-9802-522a2ecf04e2)
+![home 2](https://github.com/Rudy9025/Faculty-Appraisal-System/assets/95328967/23fa5291-8163-4bad-9b6f-9110c6f87694)
  <hr style="background-color: white; height: 2px;border: none;">
  
-![3](https://github.com/Rudy9025/Faculty-Appraisal-System/assets/95328967/6c6884a7-afe6-406b-b618-e20c4db65ade)
+![home 1](https://github.com/Rudy9025/Faculty-Appraisal-System/assets/95328967/4e83d568-cfed-42fe-9c19-7c3eea1230a0)
  <hr style="background-color: white; height: 2px;border: none;">
  
  # Registration Form
  
-![Registration form](https://github.com/Rudy9025/Faculty-Appraisal-System/assets/95328967/3cd34151-c04e-490c-9c64-6930342dc4b2)
+![Registration form](https://github.com/Rudy9025/Faculty-Appraisal-System/assets/95328967/6c426740-cc65-458d-a915-e1b90241c244)
  <hr style="background-color: white; height: 2px;border: none;">
  
  # Login Page
  
-![Login page](https://github.com/Rudy9025/Faculty-Appraisal-System/assets/95328967/f7d78797-4b0b-4b22-b434-bb42196ddb61)
+![Login Page](https://github.com/Rudy9025/Faculty-Appraisal-System/assets/95328967/c71cbff8-9109-4abc-9974-a7c9ba65777f)
  <hr style="background-color: white; height: 2px;border: none;">
  
  # User_Home page
  
-![user_home page](https://github.com/Rudy9025/Faculty-Appraisal-System/assets/95328967/13cdcb88-5899-429e-858a-47dd7c82b364)
+![User_home page](https://github.com/Rudy9025/Faculty-Appraisal-System/assets/95328967/7f627eff-8b9e-445d-908d-b4a5b2d16484)
  <hr style="background-color: white; height: 2px;border: none;">
  
  # Index_Of_Forms
  
-![index_of_forms](https://github.com/Rudy9025/Faculty-Appraisal-System/assets/95328967/6c912f1f-7d3e-4ee2-9a54-5b19c87e7f47)
+![index_of_forms](https://github.com/Rudy9025/Faculty-Appraisal-System/assets/95328967/8d7f7e55-afef-4dac-88b5-96ed502e9df5)
  <hr style="background-color: white; height: 2px;border: none;">
  
   # Offline Form
  
-![offline form](https://github.com/Rudy9025/Faculty-Appraisal-System/assets/95328967/facc30ed-9912-40a0-a211-d38c48774c90)
+![offline_form](https://github.com/Rudy9025/Faculty-Appraisal-System/assets/95328967/681c5e17-429e-4f7d-968e-7f5fc75a257c)
  <hr style="background-color: white; height: 2px;border: none;">
  
  # Feedback page
  
-![feedback ](https://github.com/Rudy9025/Faculty-Appraisal-System/assets/95328967/64b2f6a9-e495-4cac-b177-51f34a55f05f)
+ ![feedback form](https://github.com/Rudy9025/Faculty-Appraisal-System/assets/95328967/17221a7b-141e-4eed-9fb8-62c906b09632)
  <hr style="background-color: white; height: 2px;border: none;">
  
 To Run:-
