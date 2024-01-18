@@ -8,9 +8,6 @@
 ![home 2](https://github.com/Rudy9025/Faculty-Appraisal-System/assets/95328967/23fa5291-8163-4bad-9b6f-9110c6f87694)
  <hr style="background-color: white; height: 2px;border: none;">
  
-![home 1](https://github.com/Rudy9025/Faculty-Appraisal-System/assets/95328967/4e83d568-cfed-42fe-9c19-7c3eea1230a0)
- <hr style="background-color: white; height: 2px;border: none;">
- 
  # Registration Form
  
 ![Registration form](https://github.com/Rudy9025/Faculty-Appraisal-System/assets/95328967/6c426740-cc65-458d-a915-e1b90241c244)
